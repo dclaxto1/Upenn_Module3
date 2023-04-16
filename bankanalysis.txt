@@ -1,9 +1,0 @@
-Total months: 86
-
-Total amount is: 22564198
-
-The average change is: -8311.11
-
-Greatest increase in profits 1862002, 16-Aug
-
-Greatest decrease in profits: -1825558,14-Feb
