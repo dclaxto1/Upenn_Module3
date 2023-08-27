@@ -12,7 +12,10 @@ The changes in "Profit/Losses" over the entire period, and then the average of t
 
 The greatest increase in profits (date and amount) over the entire period
 
-The greatest decrease in profits (date and amount) over the entire period
+The greatest decrease in profits (date and amount) over the entire period <br />
+
+![image](https://github.com/dclaxto1/Upenn_Module3/assets/128431134/c6acee35-00be-4edf-bd4d-9c7945cc9d99)
+
 
 For the second challenge (PyPoll), I was tasked with helping a small, rural town modernize its vote-counting process.
 I was given a set of poll data called election_data.csv. The dataset is composed of three columns: "Voter ID", "County", and "Candidate". My task was to create a Python script that analyzes the votes and calculates each of the following values:
