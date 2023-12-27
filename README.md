@@ -12,7 +12,7 @@ The changes in "Profit/Losses" over the entire period, and then the average of t
 
 The greatest increase in profits (date and amount) over the entire period
 
-The greatest decrease in profits (date and amount) over the entire period <br />
+The greatest decrease in profits (date and amount) over the entire period  <br />
 
 ![image](https://github.com/dclaxto1/Upenn_Module3/assets/128431134/c6acee35-00be-4edf-bd4d-9c7945cc9d99)
 
