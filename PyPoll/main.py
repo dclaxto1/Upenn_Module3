@@ -1,4 +1,4 @@
-import os
+import os 
 import csv
 
 #specify csv file
@@ -70,4 +70,5 @@ output_file.write(f"Diana DeGette: {dg_votes}, {dg_percent}%\n")
 output_file.write(f"Raymon Anthony Doane: {rad_votes}, {rad_percent}%\n")
 output_file.write(f"\n")
 output_file.write(f"The winner is {winner} with {winning_vote} votes!\n")
+
 output_file.close
