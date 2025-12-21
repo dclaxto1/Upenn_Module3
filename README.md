@@ -6,7 +6,7 @@ I created create a Python script that analyzes the records to calculate each of 
 
 The total number of months included in the dataset 
    
-The net total amount of "Profit/Losses" over the entire period
+The net total amount of "Profit/Losses" over the entire period  
  
 The changes in "Profit/Losses" over the entire period, and then the average of those changes
 
